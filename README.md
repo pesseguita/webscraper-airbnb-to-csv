@@ -1,6 +1,4 @@
-# webscraper-airbnb-to-csv
 # Airbnb Web Scraper in Python
-Webscraper for Airbnb listings
 
 Airbnb Web Scraper in Python
 
